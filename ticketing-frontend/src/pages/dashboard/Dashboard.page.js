@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
-import { DashboardTickets } from "../../../components/tickets/DashboardTickets.comp";
-import tickets from "../../../assets/data/dummy-tickets.json";
-import { PageBreadcrumb } from "../../../components/breadcrumb/PageBreadcrumb.comp";
+import { DashboardTickets } from "../../components/tickets/DashboardTickets.comp";
+import tickets from "../../assets/data/dummy-tickets.json";
+import { PageBreadcrumb } from "../../components/breadcrumb/PageBreadcrumb.comp";
 export const Dashboard = () => {
   return (
     <Container>

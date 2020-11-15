@@ -1,37 +1,44 @@
 [
     {
         "id": 1,
+        "subject": "networking",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     },
     {
         "id": 2,
+        "subject": "networking",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     },
     
     {
         "id": 3,
+        "subject": "software",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     },
     {
         "id": 4,
+        "subject": "WebPortal",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     },
     {
         "id": 5,
+        "subject": "WebPortal",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     },
     {
         "id": 6,
+        "subject": "software",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     },
     {
         "id": 7,
+        "subject": "Bug",
         "status": "Awaiting Client",
         "addedAt": "2020-09-23"
     }

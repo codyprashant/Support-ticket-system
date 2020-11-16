@@ -2,8 +2,26 @@
     {
         "id": 1,
         "subject": "networking",
-        "status": "Awaiting Client",
-        "addedAt": "2020-09-23"
+        "issueTitle": "Not Able to connect with Internet",
+        "status": "New",
+        "addedAt": "2020-09-23",
+        "history": [
+            {
+                "date": "2020-11-14",
+                "message" : "We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem ",
+                "messageBy": "Support Executive" 
+            },
+            {
+                "date": "2020-11-15",
+                "message" : "Thanks. Please let me know when it can be completed We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem ",
+                "messageBy": "Customer" 
+            },
+            {
+                "date": "2020-11-16",
+                "message" : "We will update you withing next 48 hrs with the yupdate. Thank for pateince We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem We will look inyoyour issue lorem ",
+                "messageBy": "Support Executive" 
+            }
+        ]
     },
     {
         "id": 2,
